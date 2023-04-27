@@ -1,2 +1,5 @@
-# Automated-Surveillance-Alert-System
-To detect the fire and smoke . The datasets used here are Fire and Smoke Dataset 
+# SecureSpace - Automated Surveillance Alert System
+
+The datset used are : Fire and Smoke Dataset :  https://www.kaggle.com/datasets/dataclusterlabs/fire-and-smoke-dataset
+
+To detect Violence and Non-Violence , Dataset used: https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset 
